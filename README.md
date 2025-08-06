@@ -64,7 +64,7 @@ Each sample includes four features:
 ## 🗂️ Dataset
 
 - File Name: `Iris.csv`
-- Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris) (or similar dataset)
+- Source: [https://www.kaggle.com/datasets/saurabh00007/iriscsv?resource=download) (or similar dataset)
 - Columns:
   - `SepalLengthCm`
   - `SepalWidthCm`
